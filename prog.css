@@ -1,0 +1,20 @@
+body{background-image:url(skyline-6.jpg);
+}
+h1{text-align:center;
+color:aqua;
+background-color: beige;
+}
+h2{text-align:right;
+color:white;
+}
+h3{text-align:center;
+color:white;
+background-color:black;
+font-style: italic;
+}
+h4{text-align: center;
+color:black;
+background-color:yellow;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size:xx-large;
+}
