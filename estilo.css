@@ -1,0 +1,16 @@
+.cabecalho{
+background-color:blueviolet;
+width: auto;
+height:100px ;
+}
+
+.conteudo{
+background-color:deeppink;
+width: auto;
+height: 700px;
+}
+.rodape{
+background-color:darkorchid;
+width: auto;
+height: 100px;
+}
